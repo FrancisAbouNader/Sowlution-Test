@@ -29,7 +29,7 @@ git clone https://github.com/FrancisAbouNader/Sowlution-Test.git
 ### 2-Navigate into the project directory:
 
 ```bash
-cd text-search-app
+cd Sowlution-Test
 ```
 
 ### 3-Install dependencies:
