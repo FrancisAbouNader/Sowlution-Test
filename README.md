@@ -1,9 +1,6 @@
-# Sowlutions Test
+# Text Search Project (Sowlution)
+
 This test is related to text search within posts
-
-# Project Name
-
-A brief description of what this project does and its purpose.
 
 ## Prerequisites
 
@@ -42,7 +39,6 @@ yarn install
 ```
 
 ## Running the Project
-
 
 ```bash
 npm start
