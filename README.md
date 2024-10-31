@@ -21,32 +21,28 @@ node -v
 npm -v
 ```
 
-# Installation
+## Installation
 
-## 1-Prerequisites
-
-
-### 2-Clone the repository:
+### 1-Clone the repository:
 
 ```bash
 git clone https://github.com/username/project-name.git
 ```
 
-### 3-Navigate into the project directory:
+### 2-Navigate into the project directory:
 ```bash
 cd project-name
 ```
 
-### 4-Install dependencies:
+### 3-Install dependencies:
 ```bash
 npm install
 
 yarn install
 ```
 
-# Running the Project
+## Running the Project
 
-## Using npm or yarn
 
 ```bash
 npm start
