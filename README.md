@@ -23,12 +23,13 @@ npm -v
 ### 1-Clone the repository:
 
 ```bash
-git clone https://github.com/username/project-name.git
+git clone https://github.com/FrancisAbouNader/Sowlution-Test.git
 ```
 
 ### 2-Navigate into the project directory:
+
 ```bash
-cd project-name
+cd text-search-app
 ```
 
 ### 3-Install dependencies:
